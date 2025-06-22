@@ -1,0 +1,31 @@
+{
+  "name": "serverless-lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamLinh98/serverless-lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/phamLinh98/serverless-lambda/issues"
+  },
+  "homepage": "https://github.com/phamLinh98/serverless-lambda#readme",
+  "devDependencies": {
+    "@types/node": "^24.0.3",
+    "serverless": "^4.17.1",
+    "serverless-offline": "^14.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "@types/aws-lambda": "^8.10.150"
+  }
+}
